@@ -1,2 +1,5 @@
-# NYT-React-Search
-Using MongoDB for our database, Express JS for our routes, React JS for the front-end, and Node JS for the back-end
+# NYTReactSearch
+
+This app uses the full MERN stack to create a New York Times search engine.  I used Mongo as a database, Express for the routes, React for the reactive design of the page, and Node as the engine.
+
+This app is live at [https://limitless-retreat-45887.herokuapp.com/](https://limitless-retreat-45887.herokuapp.com/)
